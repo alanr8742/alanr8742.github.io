@@ -11,6 +11,7 @@ body {
 
 p {
     font-size: 16px;
+    color: black;
 }
 
 a {
@@ -36,12 +37,12 @@ a {
 }
 
 .bg-1 {
-    background-color: #ffffff; /* White */
+    background-color: black; /* White */
     color: #ADD8E6;
 }
 
 .bg-2 {
-    background-color: #2e72a1; /* Blue */
+    background-color: black /* Blue */
     color: #ADD8E6;
 }
 
