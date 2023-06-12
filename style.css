@@ -37,12 +37,12 @@ a {
 }
 
 .bg-1 {
-    background-color: black; /* White */
+    background-color: white; /* White */
     color: #ADD8E6;
 }
 
 .bg-2 {
-    background-color: black /* Blue */
+    background-color: blue /* Blue */
     color: #ADD8E6;
 }
 
